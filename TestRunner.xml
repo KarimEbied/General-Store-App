@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TCrunner">
+    <test name="Testcase01">
+        <classes>
+            <class name="TC_01_FillForm"/>
+        </classes>
+    </test>
+    <test name="Testcase02">
+        <classes>
+            <class name="TC_02_InVaildLogin"/>
+        </classes>
+    </test>
+    <test name="Testcase03">
+        <classes>
+            <class name="TC_03_SerchedProduct"/>
+        </classes>
+    </test>
+    <test name="Testcase04">
+        <classes>
+            <class name="TC_04_ADDProducts"/>
+        </classes>
+    </test>
+
+
+
+</suite>
+
+
+
